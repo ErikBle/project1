@@ -43,8 +43,8 @@ the instructions
 Deployed Link: https://mg-cpu90.github.io/project1/
 
 
-<img src="https://imgur.com/mecq6Pm.jpg" width="600px" height="400px">
-<img src="https://imgur.com/XEInLY1.jpg" width="600px" height="400px">
-<img src="https://imgur.com/DEaK3ZZ.jpg" width="600px" height="400px">
+<img src="https://imgur.com/mecq6Pm.jpg" width="800px" height="600px">
+<img src="https://imgur.com/XEInLY1.jpg" width="800px" height="600px">
+<img src="https://imgur.com/DEaK3ZZ.jpg" width="800px" height="600px">
 
 
