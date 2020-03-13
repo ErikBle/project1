@@ -41,7 +41,6 @@ the instructions
 
 ## Link:
 Deployed Link: https://mg-cpu90.github.io/project1/
-GitHub Repo: https://github.com/MG-cpu90/project1
 
 
-<img src="" width="600px" height="400px">
+<img src="https://imgur.com/mecq6Pm.jpg" width="600px" height="400px">
